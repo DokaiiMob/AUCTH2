@@ -14,7 +14,7 @@ local script_vers_text = "v1.0" -- Название нашей версии. В 
 local update_url = 'https://raw.githubusercontent.com/DokaiiMob/AUCTH/main/update.ini?token=GHSAT0AAAAAAB5IMAWTDADWJ3AXVZGN5JHAY55MAUQ' -- Путь к ini файлу. Позже нам понадобиться.
 local update_path = getWorkingDirectory() .. "/update.ini"
 
-local script_url = 'https://raw.githubusercontent.com/DokaiiMob/AUCTH/main/crimsonhelp.lua?token=GHSAT0AAAAAAB5JVMF5LFPCFTH4YUOD7LTKY55ML3Q' -- Путь скрипту.
+local script_url = 'https://github.com/DokaiiMob/AUCTH2/commit/3caf257ea9b2406636ab9631df6227d25882858c' -- Путь скрипту.
 local script_path = thisScript().path
 
 -- готовый код
